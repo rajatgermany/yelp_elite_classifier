@@ -1,4 +1,4 @@
-# yelp_elite_classifier
+# Yelp Elite Memeber Classifier
 
 1. Yelp is well known as the most popular tool used by people to discover new places through reviews. 
 2. For engagement they added the social aspect to their business. Eg. “Friends”
